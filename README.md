@@ -1,4 +1,4 @@
-# SitemapToPDF
+# Sitemap To PDF
 
 SitemapToPDF is a tool that parses your sitemap, visits every page listed, and generates a PDF for each page.
 
